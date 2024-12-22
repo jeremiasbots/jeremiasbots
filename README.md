@@ -17,3 +17,4 @@ Creé Dark-Bot en 2021 con Javascript, he contribuido notablemente en proyectos 
 
 # Mis estadísticas de GitHub
 <img src="https://stats.quira.sh/jeremiasbots/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=jeremiasbots" width=300px height=300px/>
+<img src="https://stats.quira.sh/jeremiasbots/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=jeremiasbots" width=300px height=300px/>
