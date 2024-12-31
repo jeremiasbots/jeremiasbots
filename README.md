@@ -1,7 +1,7 @@
 # Hola a todos 👋
 
 
-- 🔭 Estoy trabajando en <a href="https://github.com/Bunland">Bunland</a>
+- 🔭 Estoy contribuyendo en <a href="https://github.com/Bunland">Bunland</a>
 - 🌱 Estoy aprendiendo React Native, C++, React, Go y otros.
 - 😎 Contribuyo en proyectos de código abierto en Bunland como <a href="https://github.com/Bunland/lauri">@bunland/lauri</a>, <a href="https://github.com/Bunland/larGo">larGo</a> o <a href="https://github.com/Bunland/fs">@bunland/fs</a>.
 - 🤖 Aprendiendo más sobre Go, C++, Python, React Native, Godot y Swift.
