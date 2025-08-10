@@ -1,10 +1,10 @@
 # Hola a todos 👋
 
 
-- 🔭 Creador de <a href="https://github.com/Dark-Actions">Dark-Actions</a>, cofundador de <a href="https://github.com/Alita-Bots">Alita-Bots</a> y estoy contribuyendo en <a href="https://github.com/Bunland">Bunland</a>.
-- 🌱 Estoy aprendiendo React Native, C++, React, Go y otros.
+- 🔭 Creador de <a href="https://github.com/Dark-Actions">Dark-Actions</a>, cofundador de <a href="https://github.com/Alita-Bots">Alita-Bots</a>. y estoy contribuyendo en <a href="https://github.com/Bunland">Bunland</a>.
+- 🌱 Estoy aprendiendo React Native, C++, React y otros.
 - 😎 Contribuyo en proyectos de código abierto en Bunland como <a href="https://github.com/Bunland/lauri">@bunland/lauri</a>, <a href="https://github.com/Bunland/larGo">larGo</a> o <a href="https://github.com/Bunland/fs">@bunland/fs</a>.
-- 🤖 Aprendiendo más sobre Go, C++, Python, React Native, Godot y Swift.
+- 🤖 Aprendiendo más sobre C++, Python, React Native, Godot y Swift.
 
 
 # Bots
