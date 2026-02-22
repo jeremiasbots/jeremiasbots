@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://discord.com/oauth2/authorize?client_id=988199264503091210&permissions=8&integration_type=0&scope=bot+applications.commands">
- <img src="https://images-ext-1.discordapp.net/external/0Xk5JFcrjAjbn-gcIgx1fwtXw0LT4zZvYh-aNAJziis/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/988199264503091210/c282c618d3b4963cf1e5889b6ba48509.webp?format=webp&width=1402&height=1402?width=256&height=256" alt="Dark-Tickets">
+ <img src="https://images-ext-1.discordapp.net/external/0Xk5JFcrjAjbn-gcIgx1fwtXw0LT4zZvYh-aNAJziis/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/988199264503091210/c282c618d3b4963cf1e5889b6ba48509.webp?format=webp&width=256&height=256" alt="Dark-Tickets">
 </a>
 
 # Experiencia
