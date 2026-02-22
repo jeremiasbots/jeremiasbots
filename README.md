@@ -1,10 +1,10 @@
 # Hola a todos 👋
 
 
-- 🔭 Creador de <a href="https://github.com/Dark-Actions">Dark-Actions</a>, cofundador de <a href="https://github.com/Alita-Bots">Alita-Bots</a>. y estoy contribuyendo en <a href="https://github.com/Bunland">Bunland</a>.
-- 🌱 Estoy aprendiendo React Native, C++, React y otros.
+- 🔭 Fundador de <a href="https://github.com/Dark-Actions">Dark-Actions</a>, cofundador de <a href="https://github.com/Alita-Bots">Alita-Bots</a>, y estoy contribuyendo en <a href="https://github.com/Bunland">Bunland</a>.
+- 🌱 Estoy aprendiendo React Native, C++ y otros.
 - 😎 Contribuyo en proyectos de código abierto en Bunland como <a href="https://github.com/Bunland/lauri">@bunland/lauri</a>, <a href="https://github.com/Bunland/larGo">larGo</a> o <a href="https://github.com/Bunland/fs">@bunland/fs</a>.
-- 🤖 Aprendiendo más sobre C++, Python, React Native, Godot y Swift.
+- 🤖 Aprendiendo más sobre C++, Python, React, Godot y Swift.
 
 
 # Bots
@@ -18,7 +18,3 @@
 
 # Experiencia
 Creé Dark-Bot en 2021 con Javascript, he contribuido notablemente en proyectos como <a href="https://github.com/Bunland/larGo">larGo</a>, <a href="https://github.com/Bunland/fs">@bunland/fs</a> y <a href="https://github.com/Bunland/lauri">@bunland/lauri</a> además de crear <a href="https://github.com/jeremiasbots/advanced-cmd">advanced-cmd</a> para crear comandos de interacción y texto con una sola clase llamada **CommandBuilder** y es un paquete que ya se está probando su actualización con soporte para archivos y subcomandos, otro de mis principales proyectos es <a href="https://github.com/jeremiasbots/license_generator">li</a> que es un generador de licencias hecho en C. He vendido varios «bots» hechos en «discord.js» y he hecho servicios backend con **Express** y **Fiber** además de saber JavaScriptCore para crear runtimes de JavaScript. Sé manejar **Go (Golang)**, **NodeJS**, **Bun**, **Deno**, **Python**, **GDScript**, **JSX**, **C**, **C#** y estoy aprendiendo **C++**, **Swift**, **Rust**, **Zig** y **D**.
-
-# Mis estadísticas de GitHub
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremiasbots&hide=html,css,blade,php" align="left" width="48%" height="50%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=jeremiasbots&show_icons=true&theme=tokyonight" width="48%" height="35%"/>
